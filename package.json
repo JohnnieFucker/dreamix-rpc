@@ -1,0 +1,26 @@
+{
+  "name": "dreamix-rpc",
+  "version": "1.0.0",
+  "description": "rpc",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnieFucker/dreamix-rpc.git"
+  },
+  "keywords": [
+    "rpc"
+  ],
+  "author": "Shine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnieFucker/dreamix-rpc/issues"
+  },
+  "homepage": "https://github.com/JohnnieFucker/dreamix-rpc#readme",
+  "dependencies": {
+    "crc": "^3.5.0",
+    "dreamix-loader": "^1.0.0",
+    "dreamix-logger": "^1.0.0",
+    "uuid": "^3.1.0",
+    "ws": "^3.3.1"
+  }
+}
