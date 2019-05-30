@@ -1,6 +1,6 @@
 {
   "name": "dreamix-rpc",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "rpc",
   "main": "index.js",
   "repository": {
@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/JohnnieFucker/dreamix-rpc#readme",
   "dependencies": {
-    "async": "^2.6.0",
-    "crc": "^3.5.0",
-    "dreamix-loader": "^1.0.2",
-    "dreamix-logger": "^1.0.0",
-    "uuid": "^3.1.0",
-    "ws": "^3.3.1"
+    "async": "^3.0.1",
+    "crc": "^3.8.0",
+    "dreamix-loader": "^1.0.3",
+    "dreamix-logger": "^1.0.1",
+    "uuid": "^3.3.2",
+    "ws": "^7.0.0"
   }
 }
